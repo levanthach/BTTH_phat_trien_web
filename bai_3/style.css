@@ -1,0 +1,118 @@
+.result-form {
+    width: 700px;
+    margin: auto;
+}
+
+.result-form .title-form {
+    background: #ca1515;
+    color: #ffff00d9;
+    text-align: center;
+    padding: 0.5px;
+    font-size: 11px;
+}
+
+.content-form {
+    padding: 20px;
+    background: #f8c29194;
+}
+
+.content-form label {
+    width: auto;
+    display: inline-block;
+    /* padding: 8px; */
+}
+#female, #male {
+    margin-right: 0!important;
+}
+label {
+    width: 100%;
+}
+
+.half-col label {
+    width: auto;
+}
+
+.content-form input {
+    /* width: auto; */
+}
+
+input#opt1, input#opt2 {
+    width: auto;
+    margin-bottom: 15px;
+}
+
+.half-col input {
+    width: auto;
+    margin-right: 26px;
+}
+
+button {
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    padding: 7px 15px;
+}
+
+h1 {
+    margin: 5px;
+}
+.count_customers {
+    width: 53px!important;
+    margin-right: 0!important;
+}
+.result-form {
+    background: #6cb4e733;
+}
+.todo-list {
+    width: 100%!important;
+}
+textarea {
+    width: 86.5%!important;
+     margin-left: 8px;
+     resize: none;
+}
+p {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+p.show_text {
+    display: block;
+    margin: 0;
+    padding: 7px 0;
+}
+.result_submit {
+    color: red;
+    text-align: center;
+    background: #fff;
+    margin: 0;
+    padding: 10px;
+}
+
+.show_info {
+    background: #22309599!important;
+    padding: 10px;
+    color: #ffffffeb;
+}
+.show_info h4 {
+    font-size: 25px;
+    margin: 5px;
+    text-align: center;
+}
+.text-red {
+    color: red;
+    font-weight: 600;
+}
+.know {
+    position: relative;
+    bottom: 30px;
+    margin-right: 23px;
+}
+.show_text em {
+    text-align: center;
+    display: block;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}

@@ -1,0 +1,87 @@
+.result-form {
+    width: 800px;
+    margin: auto;
+}
+
+.result-form .title-form {
+    background: #22309599;
+    color: #fff;
+    text-align: center;
+    padding: 0.5px;
+    font-size: 11px;
+}
+
+.content-form {
+    padding: 20px;
+}
+
+.content-form label {
+    width: 168px;
+    display: inline-block;
+    padding: 8px;
+}
+
+label {
+    width: 100%;
+}
+
+.half-col label {
+    width: 35px;
+}
+
+.content-form input {
+    width: 300px;
+}
+
+input#opt1, input#opt2 {
+    width: 30px;
+    margin-bottom: 15px;
+}
+
+.half-col input {
+    width: 172px;
+    margin-right: 26px;
+}
+
+button {
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    padding: 7px 15px;
+}
+
+h1 {
+    margin: 5px;
+}
+
+.result-form {
+    background: #6cb4e733;
+}
+.todo-list {
+    width: 100%!important;
+}
+textarea {
+    width: 63%!important;
+     margin-left: 8px;
+}
+p {
+    margin-left: 10px;
+}
+.result_submit {
+    color: red;
+    text-align: center;
+    background: #fff;
+    margin: 0;
+    padding: 10px;
+}
+
+.show_info {
+    background: #22309599!important;
+    padding: 10px;
+    color: #ffffffeb;
+}
+.show_info h4 {
+    font-size: 25px;
+    margin: 5px;
+    text-align: center;
+}
